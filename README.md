@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I am Sachin
 
-<!--
-**AEGON247/AEGON247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![AEGON's github stats](https://github-readme-stats.vercel.app/api?username=AEGON247&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AEGON247/github-readme-stats)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on A TOP SECRET 🤫
+- 🌱 I’m currently learning new things everyday !
+- 👯 I’m open to suggestions or collaborations on my projects 
+- 💬 Ask me about anything on my blog listed below
+- 📫 How to reach me: 
+    - 💡 My Blog: https://sachinmehta247.wixsite.com/website-1
+    - 🕶️ Instagram: https://www.instagram.com/sachin.mehta_247/ 
+- ⚡ Fun fact: I have 2 amazing dogs, and BOTH have insta accounts ! 🤣
+- 🧠 My perks: 
+    - 1) I am an expert coder 🖥️
+    - 2) I am an aspiring scientist 🔬 
+    - 3) I am an OK hacker ☣️ 🤫
+    - 4) I am a STRAIGHT A topper 💯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# The languages I mainly work on: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEGON247&layout=compact)](https://github.com/AEGON247/github-readme-stats)
+
