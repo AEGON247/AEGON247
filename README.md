@@ -8,7 +8,8 @@
 - 💬 Ask me about anything on my blog listed below
 - 📫 How to reach me: 
     - 💡 My Blog: https://sachinmehta247.wixsite.com/website-1
-    - 🕶️ Instagram: https://www.instagram.com/sachin.mehta_247/ 
+    - 🕶️ Instagram: https://www.instagram.com/sachin.mehta_247/
+    - :electron: Replit: https://replit.com/@SachinMehta 
 - ⚡ Fun fact: I have 2 amazing dogs, and BOTH have insta accounts ! 🤣
 - 🧠 My perks: 
     - 1) I am an expert coder 🖥️
@@ -19,6 +20,7 @@
 ### The languages I mainly work on: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEGON247&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Stay Tuned !
 ![Stay Tuned](https://why.ryerson.ca/wp-content/uploads/2015/04/process.gif?style=max-width:50;)
 
 
