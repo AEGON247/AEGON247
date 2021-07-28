@@ -19,6 +19,6 @@
 ### The languages I mainly work on: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEGON247&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![name-of-you-image](https://why.ryerson.ca/wp-content/uploads/2015/04/process.gif)
+![Stay Tuned](https://why.ryerson.ca/wp-content/uploads/2015/04/process.gif?style=max-width:50; max-height = 50)
 
 
