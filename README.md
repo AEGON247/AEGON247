@@ -1,6 +1,9 @@
 <h3 align="center">Behold The Creator</h3>
 <h1 align = "center"><img src = "http://msurguy.github.io/gifloopcoder.com/example1.gif" width = 60px> &emsp; AEGON &emsp; <img src = "https://c.tenor.com/s4yHddWuaDIAAAAj/glasses-shades-on.gif" width = 60px> </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="aegon" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="aegon" /> </p> 
+
+<h2 align="center">Catch Me At : </h2> 
+<p align="center"><img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></p><br>
 
 [![AEGON's github stats](https://github-readme-stats.vercel.app/api?username=AEGON247&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
