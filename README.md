@@ -55,6 +55,6 @@ YAML         6 mins          ▒░░░░░░░░░░░░░░░░
 
 
 ## Stay Tuned !
-<a href = "https://sachinmehta247.wixsite.com/website-1"><img src = "https://s-media-cache-ak0.pinimg.com/originals/1b/22/7c/1b227c3f68273bba422016a0d9c42914.gif" width = "100", height = "100"></a>
+<a href = "https://sachinmehta247.wixsite.com/website-1"><img src = "https://s-media-cache-ak0.pinimg.com/originals/1b/22/7c/1b227c3f68273bba422016a0d9c42914.gif" width = 100, height = 100></a>
 
 
