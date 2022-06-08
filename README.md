@@ -1,5 +1,5 @@
 <h3 align="center">Behold The Creator</h3>
-<h1 align = "center"><img src = "http://msurguy.github.io/gifloopcoder.com/example1.gif" width = 30px> &emsp; AEGON &emsp; <img src = "https://c.tenor.com/s4yHddWuaDIAAAAj/glasses-shades-on.gif" width = 30px> </h1>
+<h1 align = "center"><img src = "http://msurguy.github.io/gifloopcoder.com/example1.gif" width = 5px> &emsp; AEGON &emsp; <img src = "https://c.tenor.com/s4yHddWuaDIAAAAj/glasses-shades-on.gif" width = 5px> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="aegon" /> </p> 
 
 <h2 align="center"><img src="https://i.pinimg.com/originals/40/ef/a6/40efa606063d41c754b0a4a6c5de8df8.gif" height=60px width=80px> &ensp; Catch Me At : </h2> 
