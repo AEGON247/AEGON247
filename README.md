@@ -34,7 +34,7 @@
 [![Watson Discovery Service Foundations](https://images.credly.com/size/110x110/images/edeaee50-64ff-42f0-a872-f4e2119ed463/Watson_Discovery_Service_-_Foundations.png)](http://www.credly.com/badges/06796b84-6cb6-40ea-9853-b4b8843e65da "Watson Discovery Service Foundations")
 <!--END_SECTION:badges-->
 
-<h2> Stuff I worked on last week &emsp; <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50> </h2>
+<h2> Stuff I worked on last week &emsp; <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80> </h2>
 
 
 <!--START_SECTION:waka-->
@@ -55,6 +55,6 @@ YAML         6 mins          ▒░░░░░░░░░░░░░░░░
 
 
 ## Stay Tuned !
-![Stay Tuned](https://why.ryerson.ca/wp-content/uploads/2015/04/process.gif?style=max-width:50;)
+![Stay Tuned]    <a href = "https://sachinmehta247.wixsite.com/website-1"><img src = "https://s-media-cache-ak0.pinimg.com/originals/1b/22/7c/1b227c3f68273bba422016a0d9c42914.gif" width = "100", height = "100"></a>
 
 
