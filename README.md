@@ -5,7 +5,7 @@
 <h2 align="center"><img src="https://i.pinimg.com/originals/40/ef/a6/40efa606063d41c754b0a4a6c5de8df8.gif" height=60 width=80> &ensp; Catch Me At : </h2> 
 <p align="center"><a href="https://open.spotify.com"><img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://www.youtube.com/channel/UC0YBmTdsB5Bxe10ux0XJJhQ"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.instagram.com/sachin.mehta_247/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/AEGON247"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://slack.com/intl/en-in/"><img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a> <a href="https://discord.com/"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a></p><br>
 
-[![AEGON's github stats](https://github-readme-stats.vercel.app/api?username=AEGON247&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![AEGON's github stats](https://github-readme-stats.vercel.app/api?username=AEGON247&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AEGON247/github-readme-stats)
 
 - 🔭 I’m currently working on A TOP SECRET 🤫
 - 🌱 I’m currently learning new things everyday !
